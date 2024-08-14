@@ -1,0 +1,2 @@
+// Find document key-value
+db.school.find({name: "Holberton school"})
